@@ -1,16 +1,15 @@
-### Hi there 👋
+# Olá somos o projeto EchoBot
+## Abaixo será informado do que o projeto se trata.
+<p>O projeto "Robô" trata-se de um robô antigo da escola São Lucas (ULBRA) - Foi proposto aos alunos do Técnico em Informática, fazerem melhorias no mesmo.</p>
 
-<!--
-**Echobot2023/Echobot2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A primeira propostas foram:
+<ul>
+  <li>Mudar a cabeça, para uma cabeça humanóide;</li>
+  <li>Desenvolvimento de um Web Site</li>
+  <li>Uma nova roupagem.</li>
+</ul>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Nosso contato 📱
+<a href="mailto:echobotcsl@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.instagram.com/echobotcsl/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
